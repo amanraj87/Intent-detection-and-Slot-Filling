@@ -1,4 +1,4 @@
-#Hindi NLP Project: Intent Detection and Slot Filling with Genetic Algorithm Optimization
+## Hindi NLP Project: Intent Detection and Slot Filling with Genetic Algorithm Optimization
 Project Overview
 This project implements an advanced Natural Language Processing (NLP) system for intent detection and slot filling in Hindi. It leverages deep learning techniques and evolutionary algorithms to create a robust model capable of understanding and extracting information from Hindi text inputs.
 Key Components
